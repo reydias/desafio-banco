@@ -1,0 +1,6 @@
+@ConsolidadoDiario.API_HostAddress = http://localhost:5020
+
+GET {{ConsolidadoDiario.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
